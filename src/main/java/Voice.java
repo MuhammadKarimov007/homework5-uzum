@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public interface Voice {
+
+
+public interface Voice {
+    void doVoice();
 }
